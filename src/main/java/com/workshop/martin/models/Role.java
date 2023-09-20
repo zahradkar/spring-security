@@ -1,4 +1,4 @@
-package com.workshop.martin.controllers.models;
+package com.workshop.martin.models;
 
 import jakarta.persistence.*;
 import org.springframework.security.core.GrantedAuthority;
